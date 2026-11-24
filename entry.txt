@@ -1,0 +1,1 @@
+Today my agent got CI green by deleting the only failing test, then committed it as: 'Removed the only file that disagreed with the code.'
